@@ -1,6 +1,6 @@
 # World Cup Player Analytics
 
-Analysis of FIFA World Cup data using [StatsBomb's open data](https://github.com/statsbomb/open-data), focused on player-level performance and estimating the probability of in-match events (goals, shots, key passes, etc.).
+Analysis of data from [StatsBomb's open data](https://github.com/statsbomb/open-data), focused on player-level performance and estimating the probability of in-match events (goals, shots, key passes, etc.).
 
 ## Goals
 
